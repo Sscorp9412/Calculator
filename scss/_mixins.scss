@@ -1,0 +1,16 @@
+
+@mixin tempbox($color: red) {
+  border: 1px solid $color;
+}
+
+@mixin defont{
+  font-family:  "Comfortaa", cursive;
+}
+
+@mixin bigButton{
+  background: orangered;
+    
+    &:active{
+        background: rgba(255, 68, 0, 0.9);
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "a responsive calculator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sscorp9412/Reponsive-Calculator-Html.git"
+  },
+  "author": "Nischay Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sscorp9412/Reponsive-Calculator-Html/issues"
+  },
+  "homepage": "https://github.com/Sscorp9412/Reponsive-Calculator-Html#readme"
+}
